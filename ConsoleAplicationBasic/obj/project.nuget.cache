@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTUdukmmxGyGiyp08JYlXi4XWyWA553CeeuoSC9qq6Ej+iT98l3JvCQmoBfwz6J5x9s6Z9QVmbo2ewA+Oc8aVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sisaza\\source\\repos\\TwistedFizzBuzz\\ConsoleAplicationBasic\\ConsoleAppBasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sisaza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
