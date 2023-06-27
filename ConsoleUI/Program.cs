@@ -8,7 +8,7 @@ var defaultTokens = new Dictionary<int, string>
 
 int[] numbers = { -20, 127 };
 
-TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, defaultTokens);
+TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, defaultTokens, true);
 
 Console.WriteLine("----------------------------------");
 
@@ -17,7 +17,7 @@ var tokens = new Dictionary<int, string>
     { 5, "Fizz" },
 };
 
-TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens);
+TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens, true);
 
 Console.WriteLine("----------------------------------");
 
@@ -26,7 +26,7 @@ tokens = new Dictionary<int, string>
     { 9, "Buzz" },
 };
 
-TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens);
+TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens, true);
 
 Console.WriteLine("----------------------------------");
 
@@ -35,7 +35,7 @@ tokens = new Dictionary<int, string>
     { 27, "Bar" },
 };
 
-TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens);
+TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens, true);
 
 Console.WriteLine("----------------------------------");
 
@@ -46,4 +46,4 @@ tokens = new Dictionary<int, string>
     { 27, "Bar" }
 };
 
-TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens);
+TwistedFizzBuzz.TwistedFizzBuzz.FizzBuzz(numbers, tokens, true);
